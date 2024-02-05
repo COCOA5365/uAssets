@@ -1,4 +1,4 @@
-! Title: uBlock filters (2024)
+https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
 ! Last modified: %timestamp%
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Homepage: https://github.com/uBlockOrigin/uAssets
